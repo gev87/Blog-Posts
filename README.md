@@ -27,7 +27,8 @@ Technologies Used
 - Next.js: Leveraged for SSR and CSR, image optimization, and general application framework.
  run the development server:
 
-```bash
+To run the application locally, clone the repository and use one of the following commands:
+
 npm run dev
 # or
 yarn dev
@@ -35,4 +36,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+The application will be available at http://localhost:3000.
+
+The application is deployed and accessible at: https://blog-posts-opal.vercel.app
+
+
