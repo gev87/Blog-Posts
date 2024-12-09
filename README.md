@@ -1,4 +1,5 @@
 Blog Posts Application
+
 This application showcases the implementation of core and advanced features for displaying and managing blog posts. Below are the details of the features and technologies used in the project.
 
 Core Features
